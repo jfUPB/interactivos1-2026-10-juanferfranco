@@ -4,10 +4,11 @@
 
 ### Actividad 01
 
-Esta es mi primer texto de la actividad 1
+Esta es mi primer texto de la actividad 1. Estoy cotinuando con la actividad 1
 
 ## Bitácora de aplicación 
 
 
 
 ## Bitácora de reflexión
+
